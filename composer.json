@@ -1,0 +1,16 @@
+{
+  "name": "dennyweiss/laradock",
+  "description": "laradock as composer package",
+  "authors": [
+    {
+      "name": "Mahmoud Zalt"
+    },
+    {
+      "name": "Denny Weiß",
+      "email": "denny@fa-weiss.eu"
+    }
+  ],
+  "type": "library",
+  "license": "MIT",
+  "require": {}
+}
